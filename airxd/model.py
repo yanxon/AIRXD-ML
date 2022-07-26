@@ -111,7 +111,6 @@ class ARIXD:
                       'colsample_bytree': 1,
                       'min_child_weight': 1,
                       'missing': None,
-                      'n_estimators': 100,
                       'nthread': -1,
                       'objective': 'binary:logistic',
                       'reg_alpha': 0,
